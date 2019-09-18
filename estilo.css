@@ -2,12 +2,12 @@ html {
     font: 15pt Arial;
 }
 body {
-    background: url("avengers_infinity_war.jpg") no-repeat top center fixed;
+    background: url("foguete.jpg") no-repeat top center fixed;
     background-size: cover;
 }
 
 div::before {
-    content: " Terminal de Testes PHP";
+    content: " PHP TERMINAL";
     font: 12pt bubblegum-sans-regular;
     font-weight: bold;
     color: white;
@@ -17,14 +17,14 @@ div::before {
     position: relative;
     top: -10px;
     left: -10px;
-    width: 560px;
+    width: 610px;
 }
 
 div {
     background-color: rgba(255,255,255,.8);
     margin: 100px auto 100px auto;
     padding: 10px;
-    width: 550px;
+    width: 600px;
     min-height:300px;
 }
 
