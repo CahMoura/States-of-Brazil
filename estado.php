@@ -9,7 +9,7 @@
 <div>
 	<?php
 	$e = isset($_GET["test"])?$_GET["test"]:0;
-	echo "&#8220;This state belongs to ";
+	echo "This state belongs to ";
     switch ($e) {
         case 1:
             echo "<span class='foco'>SOUTHEAST REGION!</span>";
