@@ -30,7 +30,7 @@
             echo "<span class='foco'>Invalid state</span>";
     }
 	?>
-	 <br/><br/><a href="javascript:history.go(-1)" class="botao">BACK</a>
+	 <br/><br/><a href="javascript:history.go(-1)" class="botao">RETURN</a>
 </div>
 </body>
 </html>
